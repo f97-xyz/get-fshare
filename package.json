@@ -1,0 +1,9 @@
+{
+  "name": "get-fshare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/f97-xyz/get-fshare.git",
+  "author": "f97 <huynhduckhoan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
